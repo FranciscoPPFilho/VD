@@ -2,7 +2,7 @@ import streamlit as st
 import plotly.express as px
 import pandas as pd
 import numpy as np
-from datetime import datetime, timedelta
+from datetime import datetime
 
 # Configuração da página
 st.set_page_config(page_title="Painel de Análise de Vendas", page_icon="🛒", layout="wide")
